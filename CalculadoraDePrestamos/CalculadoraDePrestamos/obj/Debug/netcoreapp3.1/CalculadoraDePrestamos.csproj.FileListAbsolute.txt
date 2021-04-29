@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.exe
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.deps.json
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.dll
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\bin\Debug\netcoreapp3.1\CalculadoraDePrestamos.pdb
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.dll
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.pdb
+C:\Users\YeisonPX\source\repos\CalculadoraDePrestamos\CalculadoraDePrestamos\obj\Debug\netcoreapp3.1\CalculadoraDePrestamos.genruntimeconfig.cache
